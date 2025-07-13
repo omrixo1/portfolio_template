@@ -1,3 +1,6 @@
+
+<img width="1640" height="886" alt="Screenshot 2025-07-13 at 22 26 03" src="https://github.com/user-attachments/assets/b80db0e2-3b1b-4d44-8a87-f6730f97618b" />
+
 # 🌐 Portfolio Template
 
 A modern, responsive personal portfolio template built with **React** and **Tailwind CSS**.  
